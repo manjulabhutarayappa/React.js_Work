@@ -1,0 +1,14 @@
+.pageview {
+    height: 100%;
+    width: 90%;
+    margin-left: 3%;
+    margin-top: 1%;
+  
+    /* border: 1px solid; */
+}
+.ant-picker-calendar-date-content{
+    /* border: 1px solid; */
+    max-height: 48px;
+    overflow-y: hidden;
+}
+
