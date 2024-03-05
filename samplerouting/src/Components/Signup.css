@@ -1,0 +1,188 @@
+.lablestyling{
+    background-color:#F5F5F5 ;
+    color:black;
+    font-size: 20 px;
+ 
+ 
+
+}
+.formfield{
+    color: rgb(35, 149, 153);
+    border: 2px;
+    margin-top: 8px;
+    margin-top: 8px;
+    /* font-weight: bold; */
+    font-style: oblique;
+    border-radius: 2px;
+
+}
+.image{
+    height: 50%;
+    margin-left: 40px;
+    height: 90%;
+    width: 40%;
+}
+.email-class{
+    border: 1px;
+    text-align: start;
+    /* color: rgb(124, 120, 114); */
+    height: 40px;
+    width: 55%;
+    border-radius: 3px;
+    border: 10px;
+    outline: none;
+    margin-top: 15px;
+    margin-right: 6px;padding: 10px;
+    
+    
+    justify-content: flex-start;
+    background-color:#F5F5F5 ;
+    color: black;
+    font-size:18px ;
+    justify-content: flex-start;
+
+    /* style={{backgroundColor:" #F5F5F5",color:"black",fontSize:"18px",justifyContent:"flex-start"}} */
+}
+.reg-link{
+    /* margin-left: 70%; */
+    align-items: center;
+    color: rgb(160, 27, 60);
+}
+.button{
+    background-color: rgb(47, 150, 21);
+    border: 2px;
+    cursor: pointer;
+    color: white;
+    border-radius: 3px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.form-border{
+    box-shadow: 0 0 5px 2px #adbecf;
+    border-radius: 4px;
+    height: 120%;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 65px;
+   margin-bottom: 10px;
+}
+.whole-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+    /* background-color: #adbecf; */
+}
+.icon-alignment{
+    margin-right: 10px;
+    justify-items: right;
+    font-size: larger;
+    font-weight: bold;
+    /* color: aquamarine; */
+}
+.heading{
+    font-weight: bold;
+    font-size: large;
+}
+.form-border1{
+    box-shadow: 0 0 5px 2px #e0e5eb;
+    border-radius: 4px;
+    height: 120%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+   margin-bottom: 40px;
+}
+
+.container1{
+    background-color: white;
+    display: flex;
+    /* display: inline; */
+    /* justify-content: center; */
+    border: 10px;
+    border-radius: 10px;
+    border-color: red;
+    border-radius: 10px solid;
+    width: 718px;
+    justify-content: center;
+    margin: 5px;
+    height: 120%;
+    margin-left: 40px;
+    overflow: hidden;
+}
+.container2{
+    background-color: black;
+    border: 4px solid;
+    border-color: red;
+    /* width:"25%"; */
+    height: 120%;
+    /* width:50%; */
+    width: 700px;
+    border-radius: 50px solid;
+    border: 10px;
+    border-color: red;
+    color: white;
+    margin-left: 50px;
+    text-align: start;
+    padding: 20px;
+    font-size: 23px;
+    overflow: hidden;
+
+}
+.corasalstyle{
+   align-items: start;
+   text-align: start;
+   color: gray;
+   display: inline;
+   
+}
+.cardsverticle{
+    height: 150px;
+    width: 120px;
+    /* padding: 20px; */
+ 
+    text-align: start;
+    align-items: start;
+    margin-top: 20px;
+    /* margin-bottom: 10px; */
+    margin-left: 20px;
+    
+
+}
+
+.cardshorizontal{
+    height: 70px;
+    width: 120px;
+    margin-top: 20px;
+    /* margin-bottom: 10px; */
+    margin-left: 20px;
+
+    
+
+}
+
+
+.lastcontainer
+{
+    display: flex;
+    justify-content: center;
+    /* padding: 20px;
+    margin: 20px; */
+    margin-right: 30px;
+
+}
+.wholecardscontainer{
+    display: flex;
+    /* justify-content: center; */
+    /* overflow: hidden; */
+}
